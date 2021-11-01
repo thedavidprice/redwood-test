@@ -4,12 +4,12 @@ export const standard = defineScenario<Prisma.TeamCreateArgs>({
   team: {
     one: {
       data: {
-        updatedAt: '2021-11-01T02:15:50Z',
-        name: 'String1950320',
-        handle: 'String1308581',
-        slug: 'String1148225',
+        updatedAt: '2021-11-01T11:57:36Z',
+        name: 'String3150896',
+        handle: 'String9453543',
+        slug: 'String9695459',
         city: 'String',
-        abbreviation: 'String1166149',
+        abbreviation: 'String9742064',
         conference: 'String',
         division: 'String',
         established: 'String',
@@ -17,12 +17,12 @@ export const standard = defineScenario<Prisma.TeamCreateArgs>({
     },
     two: {
       data: {
-        updatedAt: '2021-11-01T02:15:50Z',
-        name: 'String4655978',
-        handle: 'String4588683',
-        slug: 'String8523197',
+        updatedAt: '2021-11-01T11:57:36Z',
+        name: 'String1145476',
+        handle: 'String5721403',
+        slug: 'String9374721',
         city: 'String',
-        abbreviation: 'String4528731',
+        abbreviation: 'String973274',
         conference: 'String',
         division: 'String',
         established: 'String',

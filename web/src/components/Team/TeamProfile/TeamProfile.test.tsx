@@ -1,11 +1,11 @@
 import { render } from '@redwoodjs/testing/web'
 
-import TeamProfilePage from './TeamProfilePage'
+import TeamProfile from './TeamProfile'
 
-describe('TeamProfilePage', () => {
+describe('TeamProfile', () => {
   it('renders successfully', () => {
     expect(() => {
-      render(<TeamProfilePage slug={'42'} />)
+      render(<TeamProfile />)
     }).not.toThrow()
   })
 })

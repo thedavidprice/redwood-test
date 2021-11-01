@@ -17,24 +17,24 @@ describe('teams', () => {
   scenario('creates a team', async () => {
     const result = await createTeam({
       input: {
-        updatedAt: '2021-11-01T02:15:50Z',
-        name: 'String4171659',
-        handle: 'String3344083',
-        slug: 'String2847066',
+        updatedAt: '2021-11-01T11:57:36Z',
+        name: 'String3002514',
+        handle: 'String3393046',
+        slug: 'String2763302',
         city: 'String',
-        abbreviation: 'String5448674',
+        abbreviation: 'String6204258',
         conference: 'String',
         division: 'String',
         established: 'String',
       },
     })
 
-    expect(result.updatedAt).toEqual('2021-11-01T02:15:50Z')
-    expect(result.name).toEqual('String4171659')
-    expect(result.handle).toEqual('String3344083')
-    expect(result.slug).toEqual('String2847066')
+    expect(result.updatedAt).toEqual('2021-11-01T11:57:36Z')
+    expect(result.name).toEqual('String3002514')
+    expect(result.handle).toEqual('String3393046')
+    expect(result.slug).toEqual('String2763302')
     expect(result.city).toEqual('String')
-    expect(result.abbreviation).toEqual('String5448674')
+    expect(result.abbreviation).toEqual('String6204258')
     expect(result.conference).toEqual('String')
     expect(result.division).toEqual('String')
     expect(result.established).toEqual('String')
@@ -44,10 +44,10 @@ describe('teams', () => {
     const original = await team({ id: scenario.team.one.id })
     const result = await updateTeam({
       id: original.id,
-      input: { updatedAt: '2021-11-02T02:15:50Z' },
+      input: { updatedAt: '2021-11-02T11:57:36Z' },
     })
 
-    expect(result.updatedAt).toEqual('2021-11-02T02:15:50Z')
+    expect(result.updatedAt).toEqual('2021-11-02T11:57:36Z')
   })
 
   scenario('deletes a team', async (scenario: StandardScenario) => {

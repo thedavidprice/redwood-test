@@ -1,7 +1,8 @@
 import type { FindTeamById } from 'types/graphql'
 import type { CellSuccessProps, CellFailureProps } from '@redwoodjs/web'
 
-import Team from 'src/components/Team/Team'
+import TeamProfile from 'src/components/Team/TeamProfile/TeamProfile'
+import LoadingSpinner from 'src/components/LoadingSpinner/LoadingSpinner'
 
 export const QUERY = gql`
   query FindTeamById($id: String!) {
@@ -20,11 +21,19 @@ export const QUERY = gql`
       wins
       losses
       winPercentage
+      players {
+        id
+        name
+      }
     }
   }
 `
 
-export const Loading = () => <div>Loading...</div>
+export const Loading = () => (
+  <div className="flex flex-col items-center justify-center">
+    <LoadingSpinner />
+  </div>
+)
 
 export const Empty = () => <div>Team not found</div>
 
@@ -33,5 +42,5 @@ export const Failure = ({ error }: CellFailureProps) => (
 )
 
 export const Success = ({ team }: CellSuccessProps<FindTeamById>) => {
-  return <Team team={team} />
+  return <TeamProfile team={team} />
 }

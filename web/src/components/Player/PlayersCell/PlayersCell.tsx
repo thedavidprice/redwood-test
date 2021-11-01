@@ -1,48 +1,63 @@
-import type { FindPlayers } from 'types/graphql'
+import type { PlayersQuery } from 'types/graphql'
 import type { CellSuccessProps, CellFailureProps } from '@redwoodjs/web'
 
 import { Link, routes } from '@redwoodjs/router'
 
-import Players from 'src/components/Player/Players'
+import PlayerCard from 'src/components/Player/PlayerCard/PlayerCard'
+import IntersectionSlide from 'src/components/IntersectionSlide/IntersectionSlide'
+import LoadingSpinner from 'src/components/LoadingSpinner/LoadingSpinner'
 
 export const QUERY = gql`
-  query FindPlayers {
+  query PlayersQuery {
     players {
       id
-      createdAt
-      updatedAt
       name
-      handle
       slug
       height
       weight
-      number
+      handle
       position
-      teamId
+      number
+      team {
+        id
+        handle
+        name
+        colorScheme {
+          primary
+          secondary
+        }
+      }
     }
   }
 `
 
-export const Loading = () => <div>Loading...</div>
-
-export const Empty = () => {
-  return (
-    <div className="rw-text-center">
-      {'No players yet. '}
-      <Link
-        to={routes.newPlayer()}
-        className="rw-link"
-      >
-        {'Create one?'}
-      </Link>
-    </div>
-  )
-}
-
-export const Failure = ({ error }: CellFailureProps) => (
-  <div className="rw-cell-error">{error.message}</div>
+export const Loading = () => (
+  <div className="flex flex-col items-center justify-center">
+    <LoadingSpinner />
+  </div>
 )
 
-export const Success = ({ players }: CellSuccessProps<FindPlayers>) => {
-  return <Players players={players} />
+export const Empty = () => <div>Empty</div>
+
+export const Failure = ({ error }: CellFailureProps) => (
+  <div style={{ color: 'red' }}>Error: {error.message}</div>
+)
+
+export const Success = ({ players }: CellSuccessProps<PlayersQuery>) => {
+  return (
+    <ul className="grid justify-items-center grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-16 gap-y-16">
+      {players?.map(
+        (player) =>
+          player.team && (
+            <li key={player.handle}>
+              <IntersectionSlide>
+                <Link to={routes.player({ id: player.id })}>
+                  <PlayerCard player={player} />
+                </Link>
+              </IntersectionSlide>
+            </li>
+          )
+      )}
+    </ul>
+  )
 }

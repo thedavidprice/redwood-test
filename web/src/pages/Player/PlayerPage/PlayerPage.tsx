@@ -1,7 +1,7 @@
 import PlayerCell from 'src/components/Player/PlayerCell'
 
 type PlayerPageProps = {
-  id: String
+  id: string
 }
 
 const PlayerPage = ({ id }: PlayerPageProps) => {

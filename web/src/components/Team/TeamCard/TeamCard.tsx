@@ -1,9 +1,11 @@
+import type { Team } from 'types/graphql'
+
 import { motion } from 'framer-motion'
 
 import { useCloudinaryImage } from 'src/hooks/useCloudinaryImage'
 
 type TeamCardProps = {
-  team: any
+  team: Team
 }
 
 const TeamCard = ({ team }: TeamCardProps) => {

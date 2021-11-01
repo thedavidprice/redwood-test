@@ -1,16 +1,18 @@
+import type { Player } from 'types/graphql'
+
 import { motion } from 'framer-motion'
 
 import { useCloudinaryImage } from 'src/hooks/useCloudinaryImage'
 
 type PlayerCardProps = {
-  player: any
+  player: Player
 }
 
 const PlayerCard = ({ player }: PlayerCardProps) => {
-  const { imageURL: playerSrc } = useCloudinaryImage(
+  const { imageURL: headshot } = useCloudinaryImage(
     `nba/players/${player.handle}`
   )
-  const { imageURL: teamLogo } = useCloudinaryImage(
+  const { imageURL: logo } = useCloudinaryImage(
     `nba/teams/${player.team.handle}`
   )
 
@@ -21,14 +23,14 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
       className="flex flex-col justify-end bg-white dark:bg-gray-900 shadow-2xl w-80 h-48 relative"
     >
       <img
-        src={teamLogo}
+        src={logo}
         alt="Team logo"
         className="opacity-10 -translate-x-4 object-cover absolute w-full h-full"
       />
       <div className="pt-2">
         <div className="flex items-end justify-evenly mx-4">
           <img
-            src={playerSrc}
+            src={headshot}
             alt="Player headshot"
             className="object-cover w-32 h-32 relative"
           />
@@ -41,9 +43,9 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
             </p>
           </div>
           <div className="self-start">
-            {teamLogo && (
+            {logo && (
               <img
-                src={teamLogo}
+                src={logo}
                 alt="Team logo"
                 width={50}
                 height={50}
@@ -55,7 +57,9 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
       </div>
       <div
         className="grid grid-cols-3 divide-x-2 divide-black text-gray-800 dark:text-gray-200 border-t-4"
-        style={{ borderTopColor: 'gray.500' }}
+        style={{
+          borderTopColor: player?.team?.colorScheme?.primary ?? 'gray.500',
+        }}
       >
         <div className="text-center py-1">
           <p className="text-xs font-bold uppercase">Height</p>

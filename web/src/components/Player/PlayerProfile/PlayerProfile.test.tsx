@@ -1,11 +1,11 @@
 import { render } from '@redwoodjs/testing/web'
 
-import TeamsPage from './TeamsPage'
+import PlayerProfile from './PlayerProfile'
 
-describe('TeamsPage', () => {
+describe('PlayerProfile', () => {
   it('renders successfully', () => {
     expect(() => {
-      render(<TeamsPage />)
+      render(<PlayerProfile />)
     }).not.toThrow()
   })
 })

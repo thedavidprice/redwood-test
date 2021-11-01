@@ -23,19 +23,19 @@ describe('players', () => {
   scenario('creates a player', async () => {
     const result = await createPlayer({
       input: {
-        updatedAt: '2021-11-01T02:15:58Z',
+        updatedAt: '2021-11-01T11:57:32Z',
         name: 'String',
-        handle: 'String3645558',
-        slug: 'String6761093',
+        handle: 'String7125180',
+        slug: 'String114267',
         height: 'String',
         weight: 'String',
       },
     })
 
-    expect(result.updatedAt).toEqual('2021-11-01T02:15:58Z')
+    expect(result.updatedAt).toEqual('2021-11-01T11:57:32Z')
     expect(result.name).toEqual('String')
-    expect(result.handle).toEqual('String3645558')
-    expect(result.slug).toEqual('String6761093')
+    expect(result.handle).toEqual('String7125180')
+    expect(result.slug).toEqual('String114267')
     expect(result.height).toEqual('String')
     expect(result.weight).toEqual('String')
   })
@@ -44,10 +44,10 @@ describe('players', () => {
     const original = await player({ id: scenario.player.one.id })
     const result = await updatePlayer({
       id: original.id,
-      input: { updatedAt: '2021-11-02T02:15:58Z' },
+      input: { updatedAt: '2021-11-02T11:57:32Z' },
     })
 
-    expect(result.updatedAt).toEqual('2021-11-02T02:15:58Z')
+    expect(result.updatedAt).toEqual('2021-11-02T11:57:32Z')
   })
 
   scenario('deletes a player', async (scenario: StandardScenario) => {

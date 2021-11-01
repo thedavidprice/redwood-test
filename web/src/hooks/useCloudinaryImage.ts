@@ -7,7 +7,10 @@ interface ImageTransformOptions {
   }
 }
 
-export const buildImageUrl = (imageId: string, options?: ImageTransformOptions) =>
+export const buildImageUrl = (
+  imageId: string,
+  options?: ImageTransformOptions
+) =>
   buildUrl(imageId, {
     cloud: {
       cloudName: process.env.REDWOOD_ENV_CLOUDINARY_CLOUD_NAME as string,
@@ -22,8 +25,6 @@ export const useCloudinaryImage = (publicId: string) => {
   const blurDataURL = buildImageUrl(publicId, {
     transformations: { effect: 'blur:1000', quality: 1 },
   })
-
-  console.log(imageURL)
 
   return { imageURL, blurDataURL }
 }

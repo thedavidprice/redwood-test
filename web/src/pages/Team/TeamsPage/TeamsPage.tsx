@@ -1,6 +1,6 @@
 import { MetaTags } from '@redwoodjs/web'
 
-import TeamsCell from 'src/components/TeamsCell'
+import TeamsCell from 'src/components/Team/TeamsCell'
 
 const TeamsPage = () => {
   return (

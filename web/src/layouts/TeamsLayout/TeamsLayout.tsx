@@ -1,31 +1,32 @@
-import { Link, routes } from '@redwoodjs/router'
-import { Toaster } from '@redwoodjs/web/toast'
+import { AnimatePresence, motion } from 'framer-motion'
 
-type TeamLayoutProps = {
-  children: React.ReactNode
+import Navbar from 'src/components/Navbar/Navbar'
+
+type TeamsLayout = {
+  children?: React.ReactNode
 }
 
-const TeamsLayout = ({ children }: TeamLayoutProps) => {
+const TeamsLayout = ({ children }: TeamsLayout) => {
   return (
-    <div className="rw-scaffold">
-      <Toaster toastOptions={{ className: 'rw-toast', duration: 6000 }} />
-      <header className="rw-header">
-        <h1 className="rw-heading rw-heading-primary">
-          <Link
-            to={routes.teams()}
-            className="rw-link"
-          >
-            Teams
-          </Link>
-        </h1>
-        <Link
-          to={routes.newTeam()}
-          className="rw-button rw-button-green"
+    <div className="flex flex-col items-center min-h-screen w-screen">
+      <Navbar />
+
+      <AnimatePresence>
+        <motion.main
+          key="main"
+          className="flex flex-col flex-grow items-center justify-center text-black bg-white dark:text-white dark:bg-black"
+          animate="enter"
+          exit="exit"
+          initial="initial"
+          variants={{
+            initial: { opacity: 0, y: 5 },
+            enter: { opacity: 1, y: 0, transition: { duration: 0.2 } },
+            exit: { opacity: 0, transition: { duration: 0.1 } },
+          }}
         >
-          <div className="rw-button-icon">+</div> New Team
-        </Link>
-      </header>
-      <main className="rw-main">{children}</main>
+          {children}
+        </motion.main>
+      </AnimatePresence>
     </div>
   )
 }
