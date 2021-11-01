@@ -1,0 +1,244 @@
+id,createdAt,updatedAt,handle,name,type,isAssistant,teamId,imageId
+2384,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:04 GMT-0400 (Eastern Daylight Time),2384,Melvin Hunt,Assistant Coach,2,1610612737,nba/coaches/2384
+1628770,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:04 GMT-0400 (Eastern Daylight Time),1628770,Matt Hill,Assistant Coach,2,1610612737,nba/coaches/1628770
+1628764,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:04 GMT-0400 (Eastern Daylight Time),1628764,Scottie Parker,Trainer,3,1610612737,nba/coaches/1628764
+1630017,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:04 GMT-0400 (Eastern Daylight Time),1630017,John Dusel,Assistant Trainer,4,1610612737,nba/coaches/1630017
+1628210,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:05 GMT-0400 (Eastern Daylight Time),1628210,Joe Mazzulla,Assistant Coach,2,1610612738,nba/coaches/1628210
+1627590,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:05 GMT-0400 (Eastern Daylight Time),1627590,Jerome Allen,Assistant Coach,2,1610612738,nba/coaches/1627590
+1628765,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:05 GMT-0400 (Eastern Daylight Time),1628765,Art Horne,Trainer,3,1610612738,nba/coaches/1628765
+1783,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),1783,Mike D'Antoni,Assistant Coach,2,1610612751,nba/coaches/1783
+1627876,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),1627876,Adam Harrington,Assistant Coach,2,1610612751,nba/coaches/1627876
+1627877,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),1627877,Jordan Ott,Assistant Coach,2,1610612751,nba/coaches/1627877
+201168,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),201168,Tiago Splitter,Assistant Coach for Player Development,12,1610612751,nba/coaches/201168
+203550,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),203550,Sebastien Poirier,Trainer,3,1610612751,nba/coaches/203550
+202435,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),202435,James Borrego,Head Coach,1,1610612766,nba/coaches/202435
+2472,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),2472,Jay Triano,Assistant Coach,2,1610612766,nba/coaches/2472
+101278,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),101278,Joe Sharpe,Trainer,3,1610612766,nba/coaches/101278
+1627310,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:07 GMT-0400 (Eastern Daylight Time),1627310,Billy Donovan,Head Coach,1,1610612741,nba/coaches/1627310
+2394,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:07 GMT-0400 (Eastern Daylight Time),2394,Pete Myers,Assistant Coach,2,1610612741,nba/coaches/2394
+2511,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:07 GMT-0400 (Eastern Daylight Time),2511,Mike Wilhelm,Assistant Coach,2,1610612741,nba/coaches/2511
+204239,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),204239,Jarron Collins,Assistant Coach,2,1610612744,nba/coaches/204239
+202743,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:07 GMT-0400 (Eastern Daylight Time),202743,John Bryant,Assistant Coach,2,1610612741,nba/coaches/202743
+1627604,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:07 GMT-0400 (Eastern Daylight Time),1627604,Chris Fleming,Assistant Coach,2,1610612741,nba/coaches/1627604
+2794,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),2794,JB Bickerstaff,Head Coach,1,1610612739,nba/coaches/2794
+204238,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),204238,Antonio Lang,Assistant Coach,2,1610612739,nba/coaches/204238
+202565,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),202565,Mike Gerrity,Assistant Coach,2,1610612739,nba/coaches/202565
+1629710,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),1629710,Lindsay Gottlieb,Assistant Coach,2,1610612739,nba/coaches/1629710
+203811,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),203811,Greg Buckner,Assistant Coach,2,1610612739,nba/coaches/203811
+1628785,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),1628785,Zach Guthrie,Assistant Coach,2,1610612742,nba/coaches/1628785
+2868,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),2868,Casey Smith,Trainer,3,1610612742,nba/coaches/2868
+2871,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),2871,Dionne Calhoun,Assistant Trainer,4,1610612742,nba/coaches/2871
+201765,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),201765,Nate Bjorkgren,Head Coach,1,1610612754,nba/coaches/201765
+2610,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:09 GMT-0400 (Eastern Daylight Time),2610,Michael Malone,Head Coach,1,1610612743,nba/coaches/2610
+203165,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:09 GMT-0400 (Eastern Daylight Time),203165,Bob Weiss,Assistant Coach,2,1610612743,nba/coaches/203165
+203391,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:09 GMT-0400 (Eastern Daylight Time),203391,Ryan Bowen,Assistant Coach,2,1610612743,nba/coaches/203391
+203759,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:09 GMT-0400 (Eastern Daylight Time),203759,Jordi Fernandez,Assistant Coach,2,1610612743,nba/coaches/203759
+203600,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:09 GMT-0400 (Eastern Daylight Time),203600,David Adelman,Assistant Coach,2,1610612743,nba/coaches/203600
+1335,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),1335,Dwane Casey,Head Coach,1,1610612765,nba/coaches/1335
+1336,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),1336,Tim Grgurich,Assistant Coach,2,1610612765,nba/coaches/1336
+204230,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),204230,Tim Hardaway,Assistant Coach,2,1610612765,nba/coaches/204230
+201678,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),201678,Jim Scholler,Trainer,3,1610612765,nba/coaches/201678
+1796,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),1796,Ron Adams,Assistant Coach,2,1610612744,nba/coaches/1796
+204260,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),204260,Bruce Fraser,Assistant Coach,2,1610612744,nba/coaches/204260
+1786,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:11 GMT-0400 (Eastern Daylight Time),1786,John Lucas,Assistant Coach,2,1610612745,nba/coaches/1786
+1630277,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:11 GMT-0400 (Eastern Daylight Time),1630277,Rick Higgins,Assistant Coach,2,1610612745,nba/coaches/1630277
+1257,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:11 GMT-0400 (Eastern Daylight Time),1257,Keith Jones,Trainer,3,1610612745,nba/coaches/1257
+203785,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),203785,Greg Foster,Assistant Coach,2,1610612754,nba/coaches/203785
+203764,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),203764,Tyler Marsh,Assistant Coach,2,1610612754,nba/coaches/203764
+1628782,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),1628782,Mike Weinar,Assistant Coach,2,1610612754,nba/coaches/1628782
+101200,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),101200,Josh Corbeil,Trainer,3,1610612754,nba/coaches/101200
+2345,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:13 GMT-0400 (Eastern Daylight Time),2345,Frank Vogel,Head Coach,1,1610612747,nba/coaches/2345
+1353,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:13 GMT-0400 (Eastern Daylight Time),1353,Lionel Hollins,Assistant Coach,2,1610612747,nba/coaches/1353
+203624,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:13 GMT-0400 (Eastern Daylight Time),203624,Taylor Jenkins,Head Coach,1,1610612763,nba/coaches/203624
+1628234,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:14 GMT-0400 (Eastern Daylight Time),1628234,David McClure,Assistant Coach,2,1610612763,nba/coaches/1628234
+1630018,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:14 GMT-0400 (Eastern Daylight Time),1630018,Eric Oetter,Trainer,3,1610612763,nba/coaches/1630018
+1787,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:14 GMT-0400 (Eastern Daylight Time),1787,Erik Spoelstra,Head Coach,1,1610612748,nba/coaches/1787
+2630,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:16 GMT-0400 (Eastern Daylight Time),2630,Bob Beyer,Assistant Coach,2,1610612740,nba/coaches/2630
+1370,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),1370,Roger Hinds,Trainer,3,1610612752,nba/coaches/1370
+202859,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),202859,David Akinyooye,Assistant Coach,2,1610612760,nba/coaches/202859
+1629758,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),1629758,Dave Bliss,Assistant Coach,2,1610612760,nba/coaches/1629758
+202427,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:18 GMT-0400 (Eastern Daylight Time),202427,Jamahl Mosley,Head Coach,1,1610612753,nba/coaches/202427
+1865,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),1865,Randy Ayers,Assistant Coach,2,1610612756,nba/coaches/1865
+201046,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),201046,Lindsey Harding,Assistant Coach,2,1610612758,nba/coaches/201046
+1018,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:23 GMT-0400 (Eastern Daylight Time),1018,Wes Unseld,Head Coach,1,1610612764,nba/coaches/1018
+203535,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),203535,Brad Stevens,Head Coach,1,1610612738,nba/coaches/203535
+202979,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),202979,Jamie Young,Assistant Coach,2,1610612738,nba/coaches/202979
+1831,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:04 GMT-0400 (Eastern Daylight Time),1831,Marlon Garnett,Assistant Coach,2,1610612737,nba/coaches/1831
+203152,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:05 GMT-0400 (Eastern Daylight Time),203152,Ime Udoka,Head Coach,1,1610612738,nba/coaches/203152
+1627329,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:05 GMT-0400 (Eastern Daylight Time),1627329,Scott Morrison,Assistant Coach,2,1610612738,nba/coaches/1627329
+1628803,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),1628803,Ryan Forehan-Kelly,Assistant Coach,2,1610612751,nba/coaches/1628803
+204286,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),204286,Stephen Spiro,Trainer,3,1610612739,nba/coaches/204286
+1630496,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),1630496,Jenny Coucek,Assistant Coach,2,1610612742,nba/coaches/1630496
+202894,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:09 GMT-0400 (Eastern Daylight Time),202894,Charles Klask,Assistant Coach,2,1610612743,nba/coaches/202894
+1627167,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:09 GMT-0400 (Eastern Daylight Time),1627167,Dan Shimensky,Trainer,3,1610612743,nba/coaches/1627167
+204085,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),204085,Sean Sweeney,Assistant Coach,2,1610612765,nba/coaches/204085
+204005,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),204005,Steve Kerr,Head Coach,1,1610612744,nba/coaches/204005
+201690,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),201690,Kenny Atkinson,Assistant Coach,2,1610612744,nba/coaches/201690
+1628227,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),1628227,Drew Yoder,Trainer,3,1610612744,nba/coaches/1628227
+2205,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:11 GMT-0400 (Eastern Daylight Time),2205,DeSagana Diop,Assistant Coach,2,1610612745,nba/coaches/2205
+202898,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:11 GMT-0400 (Eastern Daylight Time),202898,Jeff Hornacek,Assistant Coach,2,1610612745,nba/coaches/202898
+202431,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:11 GMT-0400 (Eastern Daylight Time),202431,Jason Biles,Trainer,3,1610612745,nba/coaches/202431
+1320,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),1320,Rick Carlisle,Head Coach,1,1610612754,nba/coaches/1320
+202603,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),202603,Lloyd Pierce,Lead Assistant Coach,13,1610612754,nba/coaches/202603
+100616,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),100616,Jenny Boucek,Assistant Coach,2,1610612754,nba/coaches/100616
+202978,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),202978,Tyronn Lue,Head Coach,1,1610612746,nba/coaches/202978
+1628472,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:13 GMT-0400 (Eastern Daylight Time),1628472,Miles Simon,Assistant Coach,2,1610612747,nba/coaches/1628472
+1629748,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:13 GMT-0400 (Eastern Daylight Time),1629748,Quinton Crawford,Assistant Coach,2,1610612747,nba/coaches/1629748
+201336,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:13 GMT-0400 (Eastern Daylight Time),201336,Blake Ahearn,Assistant Coach,2,1610612763,nba/coaches/201336
+2406,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:14 GMT-0400 (Eastern Daylight Time),2406,Caron Butler,Assistant Coach,2,1610612748,nba/coaches/2406
+201682,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:14 GMT-0400 (Eastern Daylight Time),201682,Octavio De La Grana,Assistant Coach for Player Development,12,1610612748,nba/coaches/201682
+1628784,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),1628784,Pat St. Andrews,Assistant Coach,2,1610612749,nba/coaches/1628784
+974,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),974,Joseph Blair,Assistant Coach,2,1610612750,nba/coaches/974
+100101,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:16 GMT-0400 (Eastern Daylight Time),100101,Teresa Weatherspoon,Assistant Coach,2,1610612740,nba/coaches/100101
+203243,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:16 GMT-0400 (Eastern Daylight Time),203243,Casey Hill,Assistant Coach,2,1610612740,nba/coaches/203243
+2366,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),2366,Mike Wilks,Assistant Coach,2,1610612760,nba/coaches/2366
+1629423,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),1629423,Donnie Strack,Trainer,3,1610612760,nba/coaches/1629423
+202891,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:18 GMT-0400 (Eastern Daylight Time),202891,Nate Tibbetts,Assistant Coach,2,1610612753,nba/coaches/202891
+1941,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),1941,Doc Rivers,Head Coach,1,1610612755,nba/coaches/1941
+201220,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),201220,David Joerger,Assistant Coach,2,1610612755,nba/coaches/201220
+202434,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),202434,Popeye Jones,Assistant Coach,2,1610612755,nba/coaches/202434
+1629169,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),1629169,Brian Adams,Assistant Coach,2,1610612755,nba/coaches/1629169
+1629427,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),1629427,Brian Randle,Assistant Coach,2,1610612756,nba/coaches/1629427
+1629410,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),1629410,David Crewe,Trainer,3,1610612756,nba/coaches/1629410
+1497,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),1497,Chauncey Billups,Head Coach,1,1610612757,nba/coaches/1497
+2623,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),2623,Scott Brooks,Assistant Coach,2,1610612757,nba/coaches/2623
+1627471,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),1627471,Jim Moran,Assistant Coach,2,1610612757,nba/coaches/1627471
+1628240,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),1628240,John McCullough,Assistant Coach,2,1610612757,nba/coaches/1628240
+101272,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),101272,Geoff Clark,Trainer,3,1610612757,nba/coaches/101272
+204012,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),204012,Luke Walton,Head Coach,1,1610612758,nba/coaches/204012
+278,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),278,Stacey Augmon,Assistant Coach,2,1610612758,nba/coaches/278
+1672,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),1672,Rex Kalamian,Assistant Coach,2,1610612758,nba/coaches/1672
+202985,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),202985,Bobby Jackson,Assistant Coach,2,1610612758,nba/coaches/202985
+1629711,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),1629711,Roy Rana,Assistant Coach,2,1610612758,nba/coaches/1629711
+204019,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:21 GMT-0400 (Eastern Daylight Time),204019,Becky Hammon,Assistant Coach,2,1610612759,nba/coaches/204019
+1628188,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:21 GMT-0400 (Eastern Daylight Time),1628188,Mitch Johnson,Assistant Coach,2,1610612759,nba/coaches/1628188
+201878,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),201878,Adrian Griffin,Assistant Coach,2,1610612761,nba/coaches/201878
+725,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),725,Dell Demps,Assistant Coach,2,1610612762,nba/coaches/725
+1997,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),1997,Mike Wells,Assistant Coach,2,1610612762,nba/coaches/1997
+2039,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),2039,Keyon Dooling,Assistant Coach,2,1610612762,nba/coaches/2039
+204007,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),204007,Alex Jensen,Assistant Coach,2,1610612762,nba/coaches/204007
+1628216,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),1628216,Bryan Bailey,Assistant Coach,2,1610612762,nba/coaches/1628216
+1630280,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),1630280,Vince Legarza,Assistant Coach,2,1610612762,nba/coaches/1630280
+1630282,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),1630282,Sergi Oliva,Assistant Coach,2,1610612762,nba/coaches/1630282
+101277,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:23 GMT-0400 (Eastern Daylight Time),101277,Brian Zettler,Trainer,3,1610612762,nba/coaches/101277
+1655,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:23 GMT-0400 (Eastern Daylight Time),1655,Tony Brown,Associate Head Coach,9,1610612764,nba/coaches/1655
+200744,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:23 GMT-0400 (Eastern Daylight Time),200744,Corey Gaines,Assistant Coach,2,1610612764,nba/coaches/200744
+202105,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:23 GMT-0400 (Eastern Daylight Time),202105,Robert Pack,Assistant Coach,2,1610612764,nba/coaches/202105
+201665,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:23 GMT-0400 (Eastern Daylight Time),201665,Mike Longabardi,Assistant Coach,2,1610612764,nba/coaches/201665
+1627328,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:23 GMT-0400 (Eastern Daylight Time),1627328,Jarell Christian,Assistant Coach,2,1610612764,nba/coaches/1627328
+2607,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:04 GMT-0400 (Eastern Daylight Time),2607,Chris Jent,Assistant Coach,2,1610612737,nba/coaches/2607
+202588,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),202588,Jacque Vaughn,Lead Assistant Coach,13,1610612751,nba/coaches/202588
+1628179,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),1628179,Royal Ivey,Assistant Coach,2,1610612751,nba/coaches/1628179
+201666,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),201666,Dennis Williams,Assistant Trainer,4,1610612766,nba/coaches/201666
+1337,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),1337,Terry Stotts,Head Coach,1,1610612757,nba/coaches/1337
+204031,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:07 GMT-0400 (Eastern Daylight Time),204031,Joshua Longstaff,Assistant Coach,2,1610612741,nba/coaches/204031
+202101,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),202101,Micah Nori,Assistant Coach,2,1610612765,nba/coaches/202101
+1658,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),1658,Mike Brown,Assistant Coach,2,1610612744,nba/coaches/1658
+384,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),384,Calbert Cheaney,Assistant Coach,2,1610612754,nba/coaches/384
+201675,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),201675,Carl Eaton,Assistant Trainer,4,1610612754,nba/coaches/201675
+1271,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),1271,Larry Drew,Assistant Coach,2,1610612746,nba/coaches/1271
+2814,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),2814,Brendan O'Connor,Assistant Coach,2,1610612746,nba/coaches/2814
+201689,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),201689,Roy Rogers,Assistant Coach,2,1610612746,nba/coaches/201689
+1630361,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),1630361,Jeremy Castleberry,Assistant Coach,2,1610612746,nba/coaches/1630361
+2010,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),2010,Jasen Powell,Trainer,3,1610612746,nba/coaches/2010
+2130,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:13 GMT-0400 (Eastern Daylight Time),2130,Mike Penberthy,Assistant Coach,2,1610612747,nba/coaches/2130
+203597,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:13 GMT-0400 (Eastern Daylight Time),203597,Phil Handy,Assistant Coach,2,1610612747,nba/coaches/203597
+201766,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:13 GMT-0400 (Eastern Daylight Time),201766,Nina Hsieh,Trainer,3,1610612747,nba/coaches/201766
+2086,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:13 GMT-0400 (Eastern Daylight Time),2086,Scoonie Penn,Assistant Coach,2,1610612763,nba/coaches/2086
+202433,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:13 GMT-0400 (Eastern Daylight Time),202433,Vitaly Potapenko,Assistant Coach,2,1610612763,nba/coaches/202433
+1277,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),1277,Stan Van Gundy,Head Coach,1,1610612740,nba/coaches/1277
+204011,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:14 GMT-0400 (Eastern Daylight Time),204011,Darko Rajakovic,Assistant Coach,2,1610612763,nba/coaches/204011
+204229,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:14 GMT-0400 (Eastern Daylight Time),204229,Malik Allen,Assistant Coach,2,1610612748,nba/coaches/204229
+1281,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:14 GMT-0400 (Eastern Daylight Time),1281,Jay Sabol,Trainer,3,1610612748,nba/coaches/1281
+1371,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),1371,Mike Budenholzer,Head Coach,1,1610612749,nba/coaches/1371
+452,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),452,Vin Baker,Assistant Coach,2,1610612749,nba/coaches/452
+2649,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),2649,Chad Forcier,Assistant Coach,2,1610612749,nba/coaches/2649
+203005,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),203005,Darvin Ham,Assistant Coach,2,1610612749,nba/coaches/203005
+204224,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),204224,Ben Sullivan,Assistant Coach,2,1610612749,nba/coaches/204224
+204225,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),204225,Charles Lee,Assistant Coach,2,1610612749,nba/coaches/204225
+201692,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),201692,Scott Faust,Trainer,3,1610612749,nba/coaches/201692
+203143,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),203143,Pablo Prigioni,Assistant Coach,2,1610612750,nba/coaches/203143
+1628772,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),1628772,Kevin Burleson,Assistant Coach,2,1610612750,nba/coaches/1628772
+2146,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),2146,Gregg Farnam,Trainer,3,1610612750,nba/coaches/2146
+1630382,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:16 GMT-0400 (Eastern Daylight Time),1630382,Tom Maystadt,Trainer,3,1610612740,nba/coaches/1630382
+1629432,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:16 GMT-0400 (Eastern Daylight Time),1629432,Todd Campbell,Assistant Trainer,4,1610612740,nba/coaches/1629432
+1301,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),1301,Tom Thibodeau,Head Coach,1,1610612752,nba/coaches/1301
+204008,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),204008,Johnnie Bryant,Associate Head Coach,9,1610612752,nba/coaches/204008
+1630161,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),1630161,Kenny Payne,Lead Assistant Coach,13,1610612752,nba/coaches/1630161
+1285,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),1285,Mike Woodson,Assistant Coach,2,1610612752,nba/coaches/1285
+2519,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),2519,Andy Greer,Assistant Coach,2,1610612752,nba/coaches/2519
+203375,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),203375,Darren Erman,Assistant Coach,2,1610612752,nba/coaches/203375
+1629450,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),1629450,Larry Greer,Assistant Coach,2,1610612752,nba/coaches/1629450
+101269,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),101269,Anthony Goenaga,Trainer,3,1610612752,nba/coaches/101269
+1627327,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),1627327,Mark Daigneault,Head Coach,1,1610612760,nba/coaches/1627327
+2168,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),2168,Steve Clifford,Head Coach,1,1610612753,nba/coaches/2168
+2821,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:18 GMT-0400 (Eastern Daylight Time),2821,Ty Corbin,Assistant Coach,2,1610612753,nba/coaches/2821
+204004,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:18 GMT-0400 (Eastern Daylight Time),204004,Steve Hetzel,Assistant Coach,2,1610612753,nba/coaches/204004
+204013,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:18 GMT-0400 (Eastern Daylight Time),204013,Pat Delany,Assistant Coach,2,1610612753,nba/coaches/204013
+1627164,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:18 GMT-0400 (Eastern Daylight Time),1627164,Bruce Kreutzer,Assistant Coach,2,1610612753,nba/coaches/1627164
+1627341,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:18 GMT-0400 (Eastern Daylight Time),1627341,Mike Batiste,Assistant Coach,2,1610612753,nba/coaches/1627341
+2720,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:18 GMT-0400 (Eastern Daylight Time),2720,Ernest Eugene,Trainer,3,1610612753,nba/coaches/2720
+101273,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),101273,Monty Williams,Head Coach,1,1610612756,nba/coaches/101273
+202111,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),202111,Kevin Young,Assistant Coach,2,1610612756,nba/coaches/202111
+2457,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),2457,Jannero Pargo,Assistant Coach,2,1610612757,nba/coaches/2457
+203170,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),203170,Dale Osbourne,Assistant Coach,2,1610612757,nba/coaches/203170
+203167,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),203167,Joe Resendez,Trainer,3,1610612758,nba/coaches/203167
+873,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:21 GMT-0400 (Eastern Daylight Time),873,Gregg Popovich,Head Coach,1,1610612759,nba/coaches/873
+1264,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:21 GMT-0400 (Eastern Daylight Time),1264,Will Sevening,Trainer,3,1610612759,nba/coaches/1264
+203606,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),203606,Nick Nurse,Head Coach,1,1610612761,nba/coaches/203606
+203604,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),203604,Jama Mahlalela,Assistant Coach,2,1610612761,nba/coaches/203604
+1629144,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),1629144,Sergio Scariolo,Assistant Coach,2,1610612761,nba/coaches/1629144
+1356,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),1356,Scott McCullough,Trainer,3,1610612761,nba/coaches/1356
+1630281,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),1630281,Lamar Skeeter,Assistant Coach,2,1610612762,nba/coaches/1630281
+1629412,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),1629412,Dan Liburd,Strength and Conditioning Coach,5,1610612751,nba/coaches/1629412
+1778,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:04 GMT-0400 (Eastern Daylight Time),1778,Nate McMillan,Head Coach,1,1610612737,nba/coaches/1778
+959,Sat Oct 09 2021 05:58:58 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),959,Steve Nash,Head Coach,1,1610612751,nba/coaches/959
+1628181,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:05 GMT-0400 (Eastern Daylight Time),1628181,Will Hardy,Assistant Coach,2,1610612738,nba/coaches/1628181
+202599,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),202599,Darrell Armstrong,Assistant Coach,2,1610612742,nba/coaches/202599
+1628807,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:05 GMT-0400 (Eastern Daylight Time),1628807,Brandon Bailey,Assistant Coach,2,1610612738,nba/coaches/1628807
+202602,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),202602,Chad Iske,Assistant Coach,2,1610612766,nba/coaches/202602
+203150,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:06 GMT-0400 (Eastern Daylight Time),203150,David Vanterpool,Assistant Coach,2,1610612751,nba/coaches/203150
+1629110,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),1629110,Dan Geriot,Assistant Coach,2,1610612739,nba/coaches/1629110
+1627657,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:11 GMT-0400 (Eastern Daylight Time),1627657,Will Weaver,Assistant Coach,2,1610612745,nba/coaches/1627657
+1312,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:07 GMT-0400 (Eastern Daylight Time),1312,Maurice Cheeks,Assistant Coach,2,1610612741,nba/coaches/1312
+1630491,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:09 GMT-0400 (Eastern Daylight Time),1630491,John Beckett,Assistant Coach,2,1610612743,nba/coaches/1630491
+203456,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:08 GMT-0400 (Eastern Daylight Time),203456,Jason Kidd,Head Coach,1,1610612742,nba/coaches/203456
+203168,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),203168,Jay Larranaga,Assistant Coach,2,1610612738,nba/coaches/203168
+1627666,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),1627666,Chris DeMarco,Assistant Coach for Player Development,12,1610612744,nba/coaches/1627666
+1630290,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:14 GMT-0400 (Eastern Daylight Time),1630290,Sonia Raman,Assistant Coach,2,1610612763,nba/coaches/1630290
+1226,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:10 GMT-0400 (Eastern Daylight Time),1226,Sidney Lowe,Assistant Coach,2,1610612765,nba/coaches/1226
+201696,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),201696,Kaleb Canales,Assistant Coach,2,1610612754,nba/coaches/201696
+2152,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:11 GMT-0400 (Eastern Daylight Time),2152,Stephen Silas,Head Coach,1,1610612745,nba/coaches/2152
+203599,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),203599,Dan Craig,Associate Head Coach,9,1610612746,nba/coaches/203599
+777,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:16 GMT-0400 (Eastern Daylight Time),777,Rex Walters,Assistant Coach,2,1610612740,nba/coaches/777
+203753,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:12 GMT-0400 (Eastern Daylight Time),203753,Ronald Nored,Assistant Coach,2,1610612754,nba/coaches/203753
+204226,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:14 GMT-0400 (Eastern Daylight Time),204226,Chris Quinn,Assistant Coach,2,1610612748,nba/coaches/204226
+203797,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:14 GMT-0400 (Eastern Daylight Time),203797,Brad Jones,Assistant Coach,2,1610612763,nba/coaches/203797
+202109,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),202109,Bryan Gates,Assistant Coach,2,1610612750,nba/coaches/202109
+1630455,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),1630455,Zach Peterson,Assistant Coach for Player Development,12,1610612760,nba/coaches/1630455
+202896,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:15 GMT-0400 (Eastern Daylight Time),202896,Chris Finch,Head Coach,1,1610612750,nba/coaches/202896
+201676,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:16 GMT-0400 (Eastern Daylight Time),201676,Fred Vinson,Assistant Coach,2,1610612740,nba/coaches/201676
+1628228,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:16 GMT-0400 (Eastern Daylight Time),1628228,Willie Green,Head Coach,1,1610612740,nba/coaches/1628228
+1628178,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),1628178,Vin Bhavnani,Assistant Coach,2,1610612760,nba/coaches/1628178
+101173,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),101173,Mark Bryant,Assistant Coach,2,1610612756,nba/coaches/101173
+203758,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),203758,Mike Miller,Assistant Coach,2,1610612760,nba/coaches/203758
+1627336,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:18 GMT-0400 (Eastern Daylight Time),1627336,Dylan Murphy,Assistant Coach,2,1610612753,nba/coaches/1627336
+1627380,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:17 GMT-0400 (Eastern Daylight Time),1627380,Kameron Woods,Assistant Coach for Player Development,12,1610612760,nba/coaches/1627380
+202108,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),202108,Sam Cassell,Assistant Coach,2,1610612755,nba/coaches/202108
+1627331,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),1627331,Will Scott,Assistant Coach,2,1610612758,nba/coaches/1627331
+2515,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),2515,Dan Burke,Assistant Coach,2,1610612755,nba/coaches/2515
+1243,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),1243,Alvin Gentry,Associate Head Coach,9,1610612758,nba/coaches/1243
+1360,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:19 GMT-0400 (Eastern Daylight Time),1360,Kevin Johnson,Trainer,3,1610612755,nba/coaches/1360
+1627564,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),1627564,Jonah Herscu,Assistant Coach,2,1610612758,nba/coaches/1627564
+202439,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),202439,Quin Snyder,Head Coach,1,1610612762,nba/coaches/202439
+203605,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),203605,Jesse Mermuys,Assistant Coach,2,1610612758,nba/coaches/203605
+2443,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:21 GMT-0400 (Eastern Daylight Time),2443,Darius Songaila,Assistant Coach,2,1610612759,nba/coaches/2443
+1627971,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:20 GMT-0400 (Eastern Daylight Time),1627971,Rico Hines,Assistant Coach,2,1610612758,nba/coaches/1627971
+1629821,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),1629821,Jon Goodwillie,Assistant Coach,2,1610612761,nba/coaches/1629821
+1630364,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:23 GMT-0400 (Eastern Daylight Time),1630364,David Atkins,Assistant Coach,2,1610612764,nba/coaches/1630364
+2887,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:21 GMT-0400 (Eastern Daylight Time),2887,Chip Engelland,Assistant Coach,2,1610612759,nba/coaches/2887
+1626233,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),1626233,Jeff Watkinson,Assistant Coach,2,1610612762,nba/coaches/1626233
+1629761,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),1629761,Fab Flournoy,Assistant Coach,2,1610612761,nba/coaches/1629761
+203601,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:23 GMT-0400 (Eastern Daylight Time),203601,Mike Terpstra,Assistant Coach,2,1610612764,nba/coaches/203601
+101203,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:22 GMT-0400 (Eastern Daylight Time),101203,Eric Waters,Trainer,3,1610612762,nba/coaches/101203
+1630363,Sat Oct 09 2021 05:58:59 GMT-0400 (Eastern Daylight Time),Sat Oct 09 2021 06:08:23 GMT-0400 (Eastern Daylight Time),1630363,Dean Oliver,Assistant Coach,2,1610612764,nba/coaches/1630363

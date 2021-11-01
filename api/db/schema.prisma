@@ -1,0 +1,104 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = "native"
+}
+
+model User {
+  id                  Int        @id @default(autoincrement())
+  createdAt           DateTime   @default(now())
+  updatedAt           DateTime   @updatedAt
+  email               String     @unique
+  hashedPassword      String
+  salt                String
+  resetToken          String?
+  resetTokenExpiresAt DateTime?
+  roles               UserRole[]
+}
+
+enum Role {
+  ADMIN
+  EDITOR
+  PUBLISHER
+}
+
+model UserRole {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  role      Role
+  user      User?    @relation(fields: [userId], references: [id])
+  userId    Int?
+
+  @@unique([role, userId])
+}
+
+model Coach {
+  id          String   @id @default(cuid())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  name        String
+  handle      String   @unique
+  type        String
+  isAssistant String
+  team        Team?    @relation(fields: [teamId], references: [id])
+  teamId      String?
+}
+
+model Player {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  name      String
+  handle    String   @unique
+  slug      String   @unique
+  height    String
+  weight    String
+  number    String?
+  position  String?
+  team      Team?    @relation(fields: [teamId], references: [id])
+  teamId    String?
+}
+
+model ColorScheme {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  primary   String
+  secondary String
+  team      Team?    @relation(fields: [teamId], references: [id])
+  teamId    String?  @unique
+
+  @@unique([primary, secondary], name: "ColorScheme_primary_secondary_key")
+}
+
+model Team {
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+  id            String       @id @default(cuid())
+  name          String       @unique
+  handle        String       @unique
+  slug          String       @unique
+  city          String
+  abbreviation  String       @unique
+  conference    String
+  division      String
+  established   String
+  wins          Int?
+  losses        Int?
+  winPercentage Float?
+  players       Player[]
+  coaches       Coach[]
+  colorScheme   ColorScheme?
+}
+
+model RW_DataMigration {
+  version    String   @id
+  name       String
+  startedAt  DateTime
+  finishedAt DateTime
+}
