@@ -14,7 +14,7 @@ const TeamsLayout = ({ children }: TeamsLayout) => {
       <AnimatePresence>
         <motion.main
           key="main"
-          className="flex flex-col flex-grow items-center justify-center text-black bg-white dark:text-white dark:bg-black"
+          className="flex flex-col flex-grow items-center justify-center text-black bg-white dark:text-white dark:bg-black my-16"
           animate="enter"
           exit="exit"
           initial="initial"

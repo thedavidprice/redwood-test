@@ -1,10 +1,10 @@
-import type { Player } from 'types/graphql'
+import type { FindPlayerById } from 'types/graphql'
 
 import { Link, routes } from '@redwoodjs/router'
 import { useCloudinaryImage } from 'src/hooks/useCloudinaryImage'
 
 type PlayerProfileProps = {
-  player: Player
+  player: FindPlayerById['player']
 }
 
 const PlayerProfile = ({ player }: PlayerProfileProps) => {
@@ -13,8 +13,8 @@ const PlayerProfile = ({ player }: PlayerProfileProps) => {
   )
 
   return (
-    <div className="px-8 py-4 bg-gray-200 dark:bg-800 text-center shadow-2xl space-y-8">
-      <hgroup className="space-y-4 my-8">
+    <div className="flex flex-col items-center px-8 py-8 bg-gray-200 dark:bg-800 shadow-2xl space-y-8 w-144">
+      <hgroup className="space-y-4 my-8 text-center">
         <h1 className="text-2xl md:text-4xl font-bold tracking-wide">
           {player.name}
         </h1>
@@ -26,17 +26,18 @@ const PlayerProfile = ({ player }: PlayerProfileProps) => {
         <img
           src={headshot}
           alt="Player headshot"
-          className="object-cover w-80 h-80"
+          className="object-cover w-96 h-96"
         />
       </div>
-      <div>
-        <Link
-          to={routes.team({ id: player.team.id })}
-          className="text-lg font-semibold tracking-tight hover:font-bold"
-        >
-          {player.team.city} {player.team.name}
-        </Link>
-      </div>
+      <Link
+        to={routes.team({ id: player.team.id })}
+        className="text-lg font-semibold tracking-tight hover:font-bold"
+      >
+        {player.team.city} {player.team.name}
+      </Link>
+      <p>
+        {player.height} / {player.weight} lbs
+      </p>
     </div>
   )
 }

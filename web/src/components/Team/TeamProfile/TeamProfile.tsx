@@ -1,11 +1,11 @@
-import type { Team } from 'types/graphql'
+import type { FindTeamById } from 'types/graphql'
 
 import { Link, routes } from '@redwoodjs/router'
 
 import { useCloudinaryImage } from 'src/hooks/useCloudinaryImage'
 
 type TeamProfileProps = {
-  team: Team
+  team: FindTeamById['team']
 }
 
 const TeamProfile = ({ team }: TeamProfileProps) => {
